@@ -1,0 +1,9 @@
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\bin\Debug\Account balance.exe.config
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\bin\Debug\Account balance.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\bin\Debug\Account balance.pdb
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account balance.csprojResolveAssemblyReference.cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account_balance.Form1.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account_balance.Properties.Resources.resources
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account balance.csproj.GenerateResource.Cache
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account balance.exe
+c:\users\joeco_000\documents\visual studio 2015\Projects\Account balance\Account balance\obj\Debug\Account balance.pdb
